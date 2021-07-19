@@ -192,7 +192,7 @@ public class PlayerActivity extends AppCompatActivity {
 
 
     MediaItem mediaItem = new MediaItem.Builder()
-            .setUri(getString(R.string.test_mp44))
+            .setUri(getString(R.string.test_mp4))
             .setMimeType(MimeTypes.APPLICATION_MP4)
 //            .setMimeType(MimeTypes.APPLICATION_MPD)
             .build();
