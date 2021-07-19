@@ -1,0 +1,29 @@
+<!-- Copyright (C) 2017 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. -->
+<resources>
+  <string name="app_name">ExoPlayer code lab</string>
+  <string name="player_activity_name">Media player</string>
+  <string name="media_url_mp3">https://storage.googleapis.com/exoplayer-test-media-0/Jazz_In_Paris.mp3</string>
+  <!-- Big Buck Bunny video provided by the Blender Foundation.
+  (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org -->
+  <string name="media_url_mp4">https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4</string>
+  <string name="media_url_dash"><![CDATA[https://www.youtube.com/api/manifest/dash/id/bf5bb2419360daf1/source/youtube?as=fmp4_audio_clear,fmp4_sd_hd_clear&sparams=ip,ipbits,expire,source,id,as&ip=0.0.0.0&ipbits=0&expire=19000000000&signature=51AF5F39AB0CEC3E5497CD9C900EBFEAECCCB5C7.8506521BFC350652163895D4C26DEE124209AA9E&key=ik0]]></string>
+<!--  <string name="test_mp4">https://api.applicant.viewinter-hr.ai/v1/api/pretest-videos/122952/stream/1.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhbnRfaWRfc3RyaW5nIjoiODk0MSIsImFwcGxpY2FudF9pZCI6ODk0MSwicHJvamVjdF9pZCI6Mjg3LCJ1c2VyX25hbWUiOiJhQDguY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIiwidHJ1c3QiXSwiZXhwIjoxNjI1NjYwMDY5LCJqdGkiOiJhNjBkYmQxNi1jOTk5LTQ0YzgtYTlmZC1jZDY5YTQ5NzJmNjgiLCJjbGllbnRfaWQiOiJhcHBsaWNhbnQtYXBpIn0.V_iiuqfVO6E1SATdF2PDVfF-xcN0WP9iB3uY9OTsi1o&amp;deviceTypeId=10000</string>-->
+<!--  <string name="test_mp4">https://api.applicant.viewinter-hr.ai/v1/api/pretest-videos/84841/stream/1.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhbnRfaWRfc3RyaW5nIjoiODk0MSIsImFwcGxpY2FudF9pZCI6ODk0MSwicHJvamVjdF9pZCI6Mjg3LCJ1c2VyX25hbWUiOiJhQDguY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIiwidHJ1c3QiXSwiZXhwIjoxNjI2MjgwNTAxLCJqdGkiOiJiNTliMWU1Yy05M2RkLTRiMjctYTQyYy0yYWJjZjUyOTU4ODYiLCJjbGllbnRfaWQiOiJhcHBsaWNhbnQtYXBpIn0.OX18zvKcQ61jH2AjDqpQTp_eZ07gXunVcE08BYe5tyA&amp;deviceTypeId=10000</string>-->
+  <string name="test_mp4">https://development.genesislab.ai:6443/v1/api/pretest-videos/1045/stream/1.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhbnRfaWRfc3RyaW5nIjoiMTAwMDE4IiwiYXBwbGljYW50X2lkIjoxMDAwMTgsInByb2plY3RfaWQiOjI3NSwidXNlcl9uYW1lIjoiaG9uZzFAZ2VuZXNpc2xhYi5haSIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSIsInRydXN0Il0sImV4cCI6MTYyODgzNjg3MiwianRpIjoiYTIyZjhiZDItZjE5MC00NGZiLWE1YTQtNmNmNmI5MTNjNjFkIiwiY2xpZW50X2lkIjoiYXBwbGljYW50LWFwaSJ9.mDRiNkLQdiTVkVVScmhJd0P5iqO6MGT3pccChmG_kfo&amp;deviceTypeId=10000</string>
+
+
+  <string name="test_mp44">https://api.upload.viewinter-hr.ai/v1/api/pretest-videos/122952/stream?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBsaWNhbnRfaWRfc3RyaW5nIjoiODk0MSIsImFwcGxpY2FudF9pZCI6ODk0MSwicHJvamVjdF9pZCI6Mjg3LCJ1c2VyX25hbWUiOiJhQDguY29tIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIiwidHJ1c3QiXSwiZXhwIjoxNjI1NjUyNjMxLCJqdGkiOiJhYWViYjc2OC1kMDhiLTRiMTUtOGUwZS0wYjU5MDNlZTQ0YmIiLCJjbGllbnRfaWQiOiJhcHBsaWNhbnQtYXBpIn0.VNCIoz-Tia3mKzn7_7bFLc-16VEucaOgKx0l-SMZJRo&amp;date=1625566239161</string>
+  <string name="logo">Google logo</string>
+</resources>
